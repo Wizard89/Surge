@@ -7,3 +7,4 @@ network-speed-panel = type=generic,timeout=60,script-path=https://raw.githubuser
 
 [Panel]
 network-speed-panel = script-name=network-speed-panel,update-interval=-1
+1
